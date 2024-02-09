@@ -7,7 +7,7 @@ However, Epidata still has some issues, so this project aims to migrate Epidata 
 
 Below are the desired functions that we hope to achieve:
 - [ ] transform interface to QT.
-- [ ] Improved user interface using QT, such as enable field type conveting and editing data in gridform of show all data.
-- [ ] data saved in sqlite, access and mysql.
+- [ ] Improved user interface using QT, such as enable field type converting and editing data in gridform of show all data.
+- [ ] data saved in sqlite, access or mysql.
 - [ ] embed python for advanced chk syntax.
 - [ ] to bo continue...
